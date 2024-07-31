@@ -7,7 +7,7 @@ export default function CustomDrawer() {
             name="(tabs)"
             options={{
               drawerLabel: "Home",
-              title: "Home",
+              title: "Início",
             }}
           />
           <Drawer.Screen
